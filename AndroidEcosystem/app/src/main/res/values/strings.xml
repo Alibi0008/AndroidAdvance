@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Wear Codelab Demo</string>
+    <string name="hello_compose_codelab">Compose for Wear OS</string>
+    <string name="messages">Messages</string>
+    <string name="message_sender">Kim Green</string>
+    <string name="message_preview">On my way!</string>
+    <string name="meditation_label">5 minute meditation</string>
+    <string name="meditation_secondary">Breathe and reset</string>
+    <string name="sound">Sound</string>
+    <string name="sound_on">Enabled</string>
+    <string name="sound_off">Muted</string>
+    <string name="sound_toggle_state">Sound is %1$s</string>
+    <string name="more">More</string>
+    <string name="run_label">Run</string>
+    <string name="run_secondary">Goal 4.0 km</string>
+    <string name="hydration_label">Hydration</string>
+    <string name="hydration_secondary">250 ml left</string>
+    <string name="heart_rate_label">Heart rate</string>
+    <string name="heart_rate_secondary">Recovery 72 bpm</string>
+    <string name="icon_button_cd">Call workout buddy</string>
+    <string name="card_icon_cd">Open messages</string>
+    <string name="meditation_icon_cd">Start meditation</string>
+</resources>
